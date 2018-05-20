@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="land_survey_bg" translatesAutoresizingMaskIntoConstraints="NO" id="2nb-nm-yiq">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="land_surveyor_bg_2" translatesAutoresizingMaskIntoConstraints="NO" id="2nb-nm-yiq">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="m9P-Pv-BO2">
@@ -194,6 +194,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="land_survey_bg" width="640" height="1136"/>
+        <image name="land_surveyor_bg_2" width="640" height="1136"/>
     </resources>
 </document>
